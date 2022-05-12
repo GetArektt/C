@@ -1,0 +1,3 @@
+/home/arek/CLionProjects/sasiedzi/cmake-build-debug/CMakeFiles/sasiedzi.dir
+/home/arek/CLionProjects/sasiedzi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arek/CLionProjects/sasiedzi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

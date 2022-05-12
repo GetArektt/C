@@ -1,0 +1,26 @@
+Dana jest macierz kwadratowa F[n][n] wypełniona liczbami całkowitymi ze zbioru {0, 1}. Odległość między dwoma elementami tej macierzy definiujemy jako: d(F[i][j], F[i'][j']) = max (|i − i'|, |j − j'|). Proszę napisać program, który:
+
+    Wczyta ze standardowego wejścia liczby n, r, oraz macierz F.
+    Obliczy macierz W taką, że W[i][j] jest sumą wszystkich elementów F[i'][j'] macierzy F leżących w odległości co najwyżej r (r < n) od F[i][j], czyli takich, że d(F[i][j], F[i'][j']) ≤ r.
+    Wypisze macierz W na standardowe wyjście.
+
+Wejście:
+
+W pierwszym wierszu standardowego wejścia znajdują się dwie dodatnie liczby całkowite: 2 ≤ n ≤ 100 i r < n. Każdy z kolejnych n wierszy zawiera po n liczb całkowitych ze zbioru {0, 1} stanowiących kolejny wiersz macierzy F.
+
+Przykład:
+
+Dla danych wejściowych:
+5 1
+1 0 0 0 1
+1 1 1 0 0
+1 0 0 0 0
+0 0 0 1 1
+0 1 0 0 0
+
+poprawną odpowiedzią jest:
+3 4 2 2 1
+4 5 2 2 1
+3 4 3 3 2
+2 2 2 2 2
+1 1 2 2 2
