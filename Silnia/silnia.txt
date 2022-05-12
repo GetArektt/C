@@ -1,0 +1,3 @@
+Napisz program, który dla danej liczby całkowitej, n, wylicza i drukuje wartość jej silni, n!. 
+
+Uwaga: Należy założyć, że wartość n! nie mieści się w żadnym z dostępnych w języku typów całkowitych, czyli należy zaimplementować własną funkcję mnożenia dużych liczb.
