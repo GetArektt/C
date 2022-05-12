@@ -1,0 +1,3 @@
+/home/arek/CLionProjects/spirala/cmake-build-debug/CMakeFiles/spirala.dir
+/home/arek/CLionProjects/spirala/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arek/CLionProjects/spirala/cmake-build-debug/CMakeFiles/rebuild_cache.dir
