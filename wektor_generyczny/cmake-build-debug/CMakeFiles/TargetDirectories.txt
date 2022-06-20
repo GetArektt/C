@@ -1,0 +1,3 @@
+/home/arek/CLionProjects/wektor_generyczny/cmake-build-debug/CMakeFiles/wektor_generyczny.dir
+/home/arek/CLionProjects/wektor_generyczny/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arek/CLionProjects/wektor_generyczny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
