@@ -1,0 +1,3 @@
+/home/arek/CLionProjects/rzymianin/cmake-build-debug/CMakeFiles/rzymianin.dir
+/home/arek/CLionProjects/rzymianin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arek/CLionProjects/rzymianin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
